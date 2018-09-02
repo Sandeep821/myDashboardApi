@@ -6,8 +6,8 @@ app.get('/', function(req, res) {
     res.sendFile(path.join(__dirname, 'start.html'));
 });
 
-app.get('/hello', function(req, res) {
-  var data = {express: 'data from new Express'}
+app.get('/api/test', function(req, res) {
+  var data = {express: 'data from HeRoku!'}
  return res.send(data);
 });
 

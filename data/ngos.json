@@ -1,20 +1,23 @@
 [
   {
-"name": "NGO1",
-"category" : "Education",
-"description" : "Work on Education Sector",
-"url" : "www.education123.com"
+"name": "Ramakrishna Mission Students Home, Chennai",
+"category" : "Orphan Education, Accommodation",
+"description" : "Ramakrishna Mission Students Home, Chennai, takes care of 670 orphan and poor students education by providing free food and accommodation.",
+"Location" : "Chennai, India",
+"url" : "www.rkmshome.org"
 },
 {
-  "name": "NGO1",
-  "category" : "Education",
-  "description" : "Work on Education Sector",
-  "url" : "www.education123.com"
+  "name": "Kalinga Institute of Social Sciences",
+  "category" : "Orphan Education, Accommodation",
+  "description" : "Kalinga Institute of Social Sciences – KISS, Bhubaneswar, India is a fully free, fully residential home for 27000 poorest of the poor indigenous children who are provided holistic education from Kindergarten to Post Graduation along with lodging, boarding, health care facilities besides vocational, life skills empowerment.",
+  "Location" : "Bhubaneswar, India",
+  "url" : "https://kiss.ac.in"
   },
   {
-    "name": "NGO1",
-    "category" : "Education",
-    "description" : "Work on Education Sector",
-    "url" : "www.education123.com"
+    "name": "No Food Waste",
+    "category" : "Free Food",
+    "description" : "No Food Waste is a mission to end food waste and hunger to make the “World Hunger Free”. We recover surplus food from weddings, parties and functions and donate it to needy and hungry people.",
+    "Location" : "Chennai, India",
+    "url" : "https://www.nofoodwaste.in/"
     }
 ]

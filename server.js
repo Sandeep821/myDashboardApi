@@ -28,8 +28,8 @@ app.get('/api/ngos', function(req, res, test) {
   var data = {express: 'data from HeRoku!'}
   return  res.json(ngosData);
 });
-var server = app.listen(3000, function () {
+app.listen(3000, function () {
   var port = server.address().port;
   console.log('Example app listening at port %s', port);
 });
-module.exports = server;
+//module.exports = server;

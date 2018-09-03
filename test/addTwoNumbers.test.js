@@ -1,7 +1,7 @@
 var expect = require('chai').expect;
-var addTwoNumbers = require('../addTwoNumbers');
+var dataTest = require('../addTwoNumbers');
 
-describe('addTwoNumbers()', function () {
+/* describe('addTwoNumbers()', function () {
   it('should add two numbers', function () {
     
     // 1. ARRANGE
@@ -14,5 +14,21 @@ describe('addTwoNumbers()', function () {
 
     // 3. ASSERT
     expect(sum2).to.be.equal(sum1);
-  });
+  }); */
+
+describe.only('DataTest()', function () {
+  it('should return OK', function () {
+    
+    // 1. ARRANGE
+    var req = {};
+    var res = {status: 200};
+   
+
+    // 2. ACT
+    var testData = dataTest(req, res);
+
+    // 3. ASSERT
+    expect(testData.status).to.be.equal(200);
+  }); 
+
 });

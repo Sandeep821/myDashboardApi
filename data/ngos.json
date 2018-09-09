@@ -19,5 +19,20 @@
     "description" : "No Food Waste is a mission to end food waste and hunger to make the “World Hunger Free”. We recover surplus food from weddings, parties and functions and donate it to needy and hungry people.",
     "Location" : "Chennai, India",
     "url" : "https://www.nofoodwaste.in/"
-    }
+    },
+    {
+      "name": "Nawab's Kitchen Food For All Orphans",
+      "category" : "Free Food",
+      "description" : "We here to donate food and education and giving things to all orphans and homeless people around my country.",
+      "Location" : "Hyderabad, India",
+      "url" : "https://www.patreon.com/nawabskitchen"
+      },
+      {
+        "name": "Khalsa Aid",
+        "category" : "Emergency Help",
+        "description" : "Khalsa Aid is an international NGO with the aim to provide humanitarian aid in disaster areas and civil conflict zones around the world. The organisation is based upon the Sikh principle of 'Recognise the whole human race as one'.",
+        "Location" : "Punjab, India",
+        "url" : "https://www.khalsaaid.org/"
+        }
 ]
+
